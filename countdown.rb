@@ -6,3 +6,4 @@ def countdown(number)
     puts "#{x} is less than #{number}"
     x += 1
 end
+end
